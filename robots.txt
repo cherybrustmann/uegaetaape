@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://goakahngoh.sotoseattle.com/sitemap.xml
